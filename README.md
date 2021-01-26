@@ -3,8 +3,8 @@
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Você tem instalado o `<Eclipse>` ou outra IDE de desenvolvimento `<Java>`.
-* Você tem como rodar um servidor local que utilize `<MySQL>`.
+* Você tem instalado o `Eclipse` ou outra IDE de desenvolvimento `Java`.
+* Você tem como rodar um servidor local que utilize `MySQL`.
 
 ## 🚀 Instalando eight-java
 

@@ -27,6 +27,10 @@ Para usar o eight-java, siga estas etapas:
 --- Em DAO você terá o funcionamento SQL.
 --- Em Model você terá o modelo das classes.
 --- Em View você terá a parte visual do projeto.
+
+CONTAS PADRÕES
+Login: adm@email.com
+Senha: 123456
 ```
 
 
